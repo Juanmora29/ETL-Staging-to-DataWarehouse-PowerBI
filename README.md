@@ -34,11 +34,15 @@ El reporte en **Power BI** permite explorar:
 - Análisis de clientes por rango etario  
 - Ranking de productos y clientes  
 - Impacto de descuentos aplicados  
-- Análisis por zonas geográficas  
-
-
-
-
+- Análisis por zonas geográficas
 
 ---
+## 📥 Descarga de entregables
+
+🔗 https://drive.google.com/drive/folders/1HinCv6XZjPtzNZ5LErk7VSzAoIvt7Q6A?usp=drive_link
+Incluye:  
+- Backups de bases de datos (`.bak`)  
+- Proyecto de Visual Studio (SSIS)  
+- Reporte en Power BI (`.pbix`)  
+- Informe en PDF  
 
